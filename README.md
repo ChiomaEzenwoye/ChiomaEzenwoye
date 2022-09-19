@@ -89,7 +89,6 @@ Visit my LinkedIn profile for more about me.
   <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChiomaEzenwoye)](https://git.io/streak-stats)
 </p>
   <div align="center">
