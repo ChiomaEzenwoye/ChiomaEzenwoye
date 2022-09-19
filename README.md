@@ -1,12 +1,12 @@
 <h2>Hi, I'm Chioma Ezenwoye! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NfoTECH.NfoTECH)](https://github.com/NfoTECH) [![GitHub followers](https://img.shields.io/github/followers/NfoTECH.svg?style=social&label=Follow)](https://github.com/NfoTECH?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ChiomaEzenwoye.ChiomaEzenwoye)](https://github.com/NfoTECH) [![GitHub followers](https://img.shields.io/github/followers/ChiomaEzenwoye.svg?style=social&label=Follow)](https://github.com/NfoTECH?tab=followers)
 
 <p>I am a Software Engineer with cumulative of 2 years experience, 1 year of non-commercial experience and 1 year of commercial experience.My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● MySQL ● Postgresql ● MongoDB ● H2 ● Docker ● CI/CD ● Thymeleaf ● JUnit/Mockito ● JavaScript ● Reactjs ● CSS ● HTML
 </p>
 Visit my LinkedIn profile for more about me.
 
-<a href="https://www.linkedin.com/in/fortunate-nwachukwu-807825a4/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/chioma-ezenwoye-54836822b/">LinkedIn</a>
 ---
 
 ### 🛠 &nbsp;Tech Stack
@@ -15,7 +15,6 @@ Visit my LinkedIn profile for more about me.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
@@ -89,11 +88,13 @@ Visit my LinkedIn profile for more about me.
 
   <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=NfoTECH" alt="GitHub Stats" /> <br/><br/>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChiomaEzenwoye)](https://git.io/streak-stats)
 </p>
   <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NfoTECH&hide=shell&langs_count=8&show_icons=true)](https://github.com/NfoTECH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiomaEzenwoye&hide=shell&langs_count=8&show_icons=true)](https://github.com/ChiomaEzenwoye/github-readme-stats)
 
 </div>
 
